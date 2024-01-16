@@ -19,4 +19,4 @@ Four types of status:
 <br>
 'cd ..' is used to go back to the original directory
 <br>
-'mkdir <foldername>' is used to create folder inside the directory
+'mkdir <'foldername'>' is used to create folder inside the directory
