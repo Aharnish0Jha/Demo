@@ -16,3 +16,7 @@ Four types of status:
 4.unmodified: unchanged
 <br>
 'git add .' is used to add all files to git
+<br>
+'cd ..' is used to go back to the original directory
+<br>
+'mkdir <foldername>' is used to create folder inside the directory
